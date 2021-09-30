@@ -1,9 +1,12 @@
 # App Send Mail
 <p>
+  
   Desenvolvimento do website Send Mail com o objetivo de praticar paradigma de orientação a objetos e praticar tratamento de erros com try catch.
   O objetivo do projeto foi ter uma tela simples que futuramente possa ser implementada em um projeto maior com o objetivo de enviar e-mail através da aplicação.
   Foi utilizado nesse desenvolvimento a Biblioteca PHPMailer
+  
 </p>
+
 <h3>Tela Principal</h3>
 <div>
   <img src="https://user-images.githubusercontent.com/84480805/135284677-6db60ccd-1170-4c03-a513-f5af77fddbd7.png" width="700px">
